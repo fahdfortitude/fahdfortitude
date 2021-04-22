@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fahdfortitude
+- 👋 Hi, I’m Fahd Balogun
 - 👀 I’m interested in Data Science, Analytics and Storytelling
 - 💞️ I’m looking to collaborate on everything data related.
 - 📫 you can reach me on fahdbalogun.a@gmail.com
