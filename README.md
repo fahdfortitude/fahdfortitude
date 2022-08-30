@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fahd Balogun, A Senior Data Analyst
 - 👀 I am sucker for Data Science, Analytics, Analysis and Storytelling
-- 💞️ I am looking to collaborate on everything data related, I am also pretty grounded in statistics and econometric theory.
+- 💞️ I am looking to collaborate on everything data related, I am also pretty grounded in statistical and econometric theory 😎.
 - 📫 you can reach me on fahdbalogun.a@gmail.com
 
 
