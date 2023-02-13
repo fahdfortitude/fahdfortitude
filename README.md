@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Fahd Balogun, A Senior Data Analyst
+- 👋 Hi, I’m Fahd Balogun, A Senior Data Professional
 - 👀 I am sucker for Data Science, Analytics, Analysis and Storytelling
 - 💞️ I am looking to collaborate on everything data related, I am also pretty grounded in statistical and econometric theory 😎.
-- 📫 you can reach me on fahdbalogun.a@gmail.com
+- 📫 you can reach me via fahdbalogun.a@gmail.com
 
 
 <i>Don't be fooled by my Lack of contributions for around two years, I have been using company's bitbucket. I recently decided to start using a personal REPO too, I know I am not alone on this table. 😄 </i>
