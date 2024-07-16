@@ -1,6 +1,18 @@
 - 👋 Hi, I’m Fahd Balogun, A Senior Data Professional
 - 👀 I am sucker for Data Science, Analytics, Analysis and Storytelling
 - 💞️ I am looking to collaborate on everything data related, I am also pretty grounded in statistical and econometric theory 😎.
+
+**** Main Languages
+Python, App script 
+
+**** Best frameworks and main libraries for Python3:
+Pytorch	Selenium Numpy	Pandas	Sklearn XGboost
+
+
+*** My tools for Data Manipulation & Visualisation:
+Conda	Jupyter	Spark	MySQL	SQLite	Plotly	Matplotlib Seaborn PowerBI Looker Tableau
+
+
 - 📫 you can reach me via fahdbalogun.a@gmail.com
 
 
