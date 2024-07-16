@@ -3,6 +3,7 @@
 - 💞️ I am looking to collaborate on everything data related, I am also pretty grounded in statistical and econometric theory 😎.
 
 <b>Main Languages</b>
+
 Python, App script 
 
 <b>Best frameworks and main libraries for Python3:</b>
