@@ -2,14 +2,15 @@
 - 👀 I am sucker for Data Science, Analytics, Analysis and Storytelling
 - 💞️ I am looking to collaborate on everything data related, I am also pretty grounded in statistical and econometric theory 😎.
 
-**** Main Languages
+<b>Main Languages</b>
 Python, App script 
 
-**** Best frameworks and main libraries for Python3:
+<b>Best frameworks and main libraries for Python3:</b>
+
 Pytorch	Selenium Numpy	Pandas	Sklearn XGboost
 
 
-*** My tools for Data Manipulation & Visualisation:
+<b>My tools for Data Manipulation & Visualisation:</b>
 Conda	Jupyter	Spark	MySQL	SQLite	Plotly	Matplotlib Seaborn PowerBI Looker Tableau
 
 
