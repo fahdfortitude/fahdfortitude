@@ -8,7 +8,7 @@ Python, App script
 
 <b>Best frameworks and main libraries for Python3:</b>
 
-Pytorch	Selenium Numpy	Pandas	Sklearn XGboost
+Pandas Numpy Scipy Selenium	Sklearn XGboost Statsmodel
 
 
 <b>My tools for Data Manipulation & Visualisation:</b>
