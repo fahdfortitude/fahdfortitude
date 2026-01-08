@@ -4,7 +4,7 @@
 
 <b>Main Languages</b>
 
-Python, App script 
+Python, App script , Javascript, Nodejs
 
 <b>Best frameworks and main libraries for Python3:</b>
 
